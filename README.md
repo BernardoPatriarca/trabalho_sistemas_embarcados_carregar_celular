@@ -3,7 +3,7 @@ Trabalho desenvolvido no Proteus 8, projetando um carregador de celular. O conec
 
 # Carregador de Celular – Projeto no Proteus 8
 
-## Sobre o projeto
+## Sobre o projeto 
 
 Este projeto apresenta o desenvolvimento de um carregador de celular criado no software Proteus 8 Professional. O objetivo foi simular o processo completo de criação de um sistema eletrônico, passando pelo esquemático, layout da PCB e visualização 3D da placa.
 
